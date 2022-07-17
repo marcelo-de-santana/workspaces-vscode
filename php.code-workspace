@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "/opt/lampp/htdocs/barbearia"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"git.enableSmartCommit": true,
+
+		"emmet.syntaxProfiles": {
+		
+		},
+		"workbench.colorTheme": "Monokai Dimmed",
+		"emmet.preferences": {
+		
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"bmewburn.vscode-intelephense-client",
+			"pkief.material-icon-theme",
+			"MS-CEINTL.vscode-language-pack-pt-BR"
+		]
+	}
+}
