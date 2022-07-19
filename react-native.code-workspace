@@ -11,14 +11,13 @@
 		"emmet.syntaxProfiles": {
 		
 		},
-		"workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+		"workbench.colorTheme": "Winter is Coming (Dark Blue)",
 		"emmet.preferences": {
 		
 		}
 	},
 	"extensions": {
 		"recommendations": [
-			"bmewburn.vscode-intelephense-client",
 			"pkief.material-icon-theme",
 			"MS-CEINTL.vscode-language-pack-pt-BR"
 		]
